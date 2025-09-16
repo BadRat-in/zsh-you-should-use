@@ -6,7 +6,7 @@
   "entry": "zsh-you-should-use.plugin.zsh",
   "author": {
     "name": "Ravindra Singh",
-    "email": "ravindrasingh.web@gmail.com"
+    "email": "rbmorena42@gmail.com"
   },
   "repo": "https://github.com/BadRat-in/zsh-you-should-use.git",
   "description": "Reminds users of useful Zsh plugins and features."
