@@ -1,0 +1,13 @@
+{
+  "schema": "v1",
+  "id": "zsh-you-should-use",
+  "name": "Zsh You Should Use",
+  "version": "1.8.0",
+  "entry": "zsh-you-should-use.plugin.zsh",
+  "author": {
+    "name": "Ravindra Singh",
+    "email": "ravindrasingh.web@gmail.com"
+  },
+  "repo": "https://github.com/BadRat-in/zsh-you-should-use.git",
+  "description": "Reminds users of useful Zsh plugins and features."
+}
